@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+#include <inttypes.h>
 /**
  * main - Prints the size of various type based onthe computer it is compiled
  * Return: Always 0.
